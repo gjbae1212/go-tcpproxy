@@ -6,7 +6,7 @@ simple tcp proxy server
 ```bash
 $ ./script.sh build
 
-$ tcpproxy --lport <local listen port> --raddr <remote addr> --rport <remote port>
+$ tcpproxy start --lport <local listen port> --raddr <remote addr> --rport <remote port>
 
 ```
 
