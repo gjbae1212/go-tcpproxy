@@ -1,0 +1,5 @@
+.idea
+go-tcpproxy
+vendor
+test
+tcpproxy
